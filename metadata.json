@@ -1,0 +1,6 @@
+{
+  "name": "Renzo Cleaners Ltd",
+  "description": "Professional cleaning services in Manchester and surrounding areas for homes, offices, end of tenancy, and deep cleans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
